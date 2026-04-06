@@ -38,6 +38,8 @@ I document notes, writeups, detection logic, and templates as I work through roo
 │   └── tryhackme/        # Room-by-room notes
 ├── Coursera/
 │   └── Cisco-Cybersecurity-Operations-Fundamentals-Specialization/  # Cisco-provided courses on Coursera
+├── TryHackMe/
+│   └── SOC-Level-1/      # TryHackMe SOC Level 1 path overview + notes
 ├── templates/            # Reusable analyst workflow templates
 ├── cheatsheets/          # Quick-reference command/query sheets
 ├── detections/
@@ -52,7 +54,8 @@ I document notes, writeups, detection logic, and templates as I work through roo
 
 | Track | Platform | Status |
 |---|---|---|
-| SOC Fundamentals | TryHackMe | 🟡 Started |
+| SOC Fundamentals | TryHackMe | ✅ Completed (2026-04-06) |
+| SOC Level 1 | TryHackMe | 🟡 Started (Path) |
 | Cisco — Cybersecurity Operations Fundamentals Specialization | Coursera (Cisco) | 🟡 Started (Course 01: SOC) |
 
 ---
@@ -74,6 +77,33 @@ I document notes, writeups, detection logic, and templates as I work through roo
 - [ ] 07. Threat Response
 
 **Progress + notes:** `Coursera/Cisco-Cybersecurity-Operations-Fundamentals-Specialization/`
+
+---
+
+## 🧪 TryHackMe Journey (SOC)
+
+### TryHackMe — SOC Level 1 (Path)
+**Content provider:** TryHackMe  
+**Learning platform:** TryHackMe  
+**Status date:** 2026-04-06
+
+#### Topics (in order)
+- [ ] 01. Blue Team Introduction
+- [ ] 02. SOC Team Internals
+- [ ] 03. Core SOC Solutions
+- [ ] 04. Cyber Defence Frameworks
+- [ ] 05. Phishing Analysis
+- [ ] 06. Network Traffic Analysis
+- [ ] 07. Network Security Monitoring
+- [ ] 08. Web Security Monitoring
+- [ ] 09. Windows Security Monitoring
+- [ ] 10. Linux Security Monitoring
+- [ ] 11. Malware Concepts for SOC
+- [ ] 12. Threat Analysis Tools
+- [ ] 13. SIEM Triage for SOC
+- [ ] 14. SOC Level 1 Capstone Challenges
+
+**Progress + notes:** `TryHackMe/SOC-Level-1/`
 
 ---
 
