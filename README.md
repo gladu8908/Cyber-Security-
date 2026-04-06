@@ -36,6 +36,8 @@ I document notes, writeups, detection logic, and templates as I work through roo
 .
 ├── notes/
 │   └── tryhackme/        # Room-by-room notes
+├── Coursera/
+│   └── Cisco-Cybersecurity-Operations-Fundamentals-Specialization/  # Cisco-provided courses on Coursera
 ├── templates/            # Reusable analyst workflow templates
 ├── cheatsheets/          # Quick-reference command/query sheets
 ├── detections/
@@ -48,13 +50,30 @@ I document notes, writeups, detection logic, and templates as I work through roo
 
 ## 📈 Progress Tracker
 
-| Topic / Room | Platform | Status |
+| Track | Platform | Status |
 |---|---|---|
 | SOC Fundamentals | TryHackMe | 🟡 Started |
-| Windows Event Logs | TryHackMe | ⬜ Upcoming |
-| Wireshark Basics | TryHackMe | ⬜ Upcoming |
-| Splunk / SIEM Basics | TryHackMe | ⬜ Upcoming |
-| Incident Response Process | Self-study | ⬜ Upcoming |
+| Cisco — Cybersecurity Operations Fundamentals Specialization | Coursera (Cisco) | 🟡 Started (Course 01: SOC) |
+
+---
+
+## 🎓 Coursera Journey (Cisco)
+
+### Cisco — Cybersecurity Operations Fundamentals Specialization (on Coursera)
+**Content provider:** Cisco  
+**Learning platform:** Coursera  
+**Status date:** 2026-04-06
+
+#### Courses (in order)
+- [ ] 01. Security Operations Center (SOC) — **In progress**
+- [ ] 02. Endpoints and Systems
+- [ ] 03. Network Security
+- [ ] 04. Data Security
+- [ ] 05. Threat Analysis
+- [ ] 06. Threat Investigation
+- [ ] 07. Threat Response
+
+**Progress + notes:** `Coursera/Cisco-Cybersecurity-Operations-Fundamentals-Specialization/`
 
 ---
 
@@ -63,7 +82,7 @@ I document notes, writeups, detection logic, and templates as I work through roo
 Every room or module gets its own Markdown file following a consistent format.  
 See the template for the structure I use: [`templates/alert-triage-template.md`](templates/alert-triage-template.md)
 
-Notes live in `notes/tryhackme/` — one file per room, named after the room slug (e.g., `soc-fundamentals.md`).
+TryHackMe notes live in `notes/tryhackme/` — one file per room, named after the room slug (e.g., `soc-fundamentals.md`).
 
 ---
 
