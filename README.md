@@ -57,7 +57,7 @@ I document notes, writeups, detection logic, and templates as I work through roo
 | SOC Fundamentals | TryHackMe | ✅ Completed (2026-04-06) |
 | SOC Level 1 | TryHackMe | 🟡 Started (Path) |
 | Cisco — Cybersecurity Operations Fundamentals Specialization | Coursera (Cisco) | 🟡 Started (Course 01: SOC) |
-
+| Computer Networking | freeCodeCamp | 🟡 Started (2026-04-07) |
 ---
 
 ## 🎓 Coursera Journey (Cisco)
