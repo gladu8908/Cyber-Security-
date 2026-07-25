@@ -8,8 +8,8 @@
 ### Topics (in order)
 - [ ] 01. Blue Team Introduction — **Completed**
 - [ ] 02. SOC Team Internals — **Completed**
-- [ ] 03. Core SOC Solutions — **In progress**
-- [ ] 04. Cyber Defence Frameworks
+- [ ] 03. Core SOC Solutions — **Completed**
+- [ ] 04. Cyber Defence Frameworks — **In Progress**
 - [ ] 05. Phishing Analysis
 - [ ] 06. Network Traffic Analysis
 - [ ] 07. Network Security Monitoring
